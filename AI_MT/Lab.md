@@ -1,1 +1,0 @@
-# Interactive Road Sign Recognition Simulation

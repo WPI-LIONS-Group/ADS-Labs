@@ -1,1 +1,0 @@
-# Real-Time Adversarial Attack on Road Sign Recognition
