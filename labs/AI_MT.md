@@ -31,7 +31,7 @@ Research and Familiarization (1-2 Days Before the Lab)
 
 **Set Up the Simulation**
 - Access [Google's Teachable Machine](https://teachablemachine.withgoogle.com/train/image) 
-- Download the [image dataset](../AI_HT/images/)
+- Download the [image dataset](../images/)
 - Demonstrate how the tool processes and recognizes these images, and explain the underlying machine learning principles.
 
 **Run the Initial Simulation**
