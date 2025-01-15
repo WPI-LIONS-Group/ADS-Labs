@@ -9,17 +9,17 @@ This README contains all instructional materials for the labs, as well as markdo
 
 [Low Tech: Cyber Attack Hands-On Simulation and Role-Playing](labs/CANB_LT2.md)
 
-[Med Tech: 3D Wireframe of CAN Bus System and Connected Sensors](labs/CANB_MT.md)
+[Med Tech: CAN Bus Replay Attack Lab](https://wpi-lions-group.github.io/CAN-Bus-Replay-Attack-Lab/)
 
-[High Tech: Vehicle Hacking with ICSim](labs/CANB_HT.md)
+[High Tech: Hacking the CAN Bus in Kali Linux](labs/CANB_HT.md)
 
 
 ## Vehicle Keyfobs
 [Low Tech: Designing a Smart Key Fob Prototype](labs/KF_LT.md)
 
-[Med Tech: Interactive Key Fob Signal Simulation](labs/KF_MT.md)
+[Med Tech: Real-World Key Fob Cloning and Hacking Using Flipper Zero](labs/KF_MT.md)
 
-[High Tech: Real-World Key Fob Cloning and Hacking Using Flipper Zero](labs/KF_HT.md)
+[High Tech: Interactive Key Fob Signal Simulation](labs/KF_HT.md)
 
 
 ## AI-enabled Features & Road Image Processors
