@@ -19,7 +19,9 @@ This README contains all instructional materials for the labs, as well as markdo
 
 [Med Tech: Real-World Key Fob Cloning and Hacking Using Flipper Zero](labs/KF_MT.md)
 
-[High Tech: Interactive Key Fob Signal Simulation](labs/KF_HT.md)
+[Free version of Med-tech lab](https://wpi-lions-group.github.io/Key-Fob-Cloning-Lab/)
+
+[High Tech: Rolljam Attack Simulation](https://wpi-lions-group.github.io/Key-Fob-Rolljam-Lab/)
 
 
 ## AI-enabled Features & Road Image Processors
