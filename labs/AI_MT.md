@@ -31,7 +31,7 @@ Research and Familiarization (1-2 Days Before the Lab)
 
 **Set Up the Simulation**
 - Access [Google's Teachable Machine](https://teachablemachine.withgoogle.com/train/image) 
-- Download the [image dataset](../images/)
+- Download the [image dataset](https://github.com/WPI-LIONS-Group/Road-Sign-Image-Dataset)
 - Demonstrate how the tool processes and recognizes these images, and explain the underlying machine learning principles.
 
 **Run the Initial Simulation**
