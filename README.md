@@ -5,9 +5,7 @@ This repository contains high-school level lab materials for a Cybersecurity uni
 This README contains all instructional materials for the labs, as well as markdown versions of the labs themselves. 
 
 ## CAN Bus
-[Low Tech: Hands-On Cybersecurity Hack and Defence for an Autonomous Vehicle](labs/CANB_LT1.md)
-
-[Low Tech: Cyber Attack Hands-On Simulation and Role-Playing](labs/CANB_LT2.md)
+[Low Tech: Hands-On Cybersecurity Hack and Defence for an Autonomous Vehicle](labs/CANB_LT.md)
 
 [Med Tech: CAN Bus Replay Attack Lab](https://wpi-lions-group.github.io/CAN-Bus-Replay-Attack-Lab/)
 
