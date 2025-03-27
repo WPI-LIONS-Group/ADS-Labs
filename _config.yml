@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - labs/AI_HT.md
+  - labs/AI_LT.md
+  - labs/AI_MT.md
+  - labs/CANB_HT.md
+  - labs/CANB_LT.md
+  - labs/KF_LT.md
+  - labs/KF_MT.md
