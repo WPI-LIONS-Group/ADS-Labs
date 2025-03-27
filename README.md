@@ -13,14 +13,13 @@ This README contains all instructional materials for the labs, as well as markdo
 
 
 ## Vehicle Keyfobs
+[High Tech: Real-World Key Fob Cloning and Hacking Using Flipper Zero](labs/KF_HT.md)
+
+[Free version of High-tech lab](https://wpi-lions-group.github.io/Key-Fob-Cloning-Lab/)
+
+[Med Tech: Rolljam Attack Simulation](https://wpi-lions-group.github.io/Key-Fob-Rolljam-Lab/)
+
 [Low Tech: Designing a Smart Key Fob Prototype](labs/KF_LT.md)
-
-[Med Tech: Real-World Key Fob Cloning and Hacking Using Flipper Zero](labs/KF_MT.md)
-
-[Free version of Med-tech lab](https://wpi-lions-group.github.io/Key-Fob-Cloning-Lab/)
-
-[High Tech: Rolljam Attack Simulation](https://wpi-lions-group.github.io/Key-Fob-Rolljam-Lab/)
-
 
 ## AI-enabled Features & Road Image Processors
 
