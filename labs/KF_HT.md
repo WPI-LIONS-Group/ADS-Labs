@@ -8,7 +8,7 @@
 ## Materials Needed
 - **Flipper Zero Device**
   - A versatile tool for hacking, including the ability to read, analyze, and clone RFID signals.
-  - Purchase Link: https://shop.flipperzero.one/
+  - Purchase Link: [https://shop.flipperzero.one/](https://shop.flipperzero.one/)
 - **Pre-programmed RFID Key Fobs**
   - Blank RFID key fobs that can be programmed with different signals. These will be the targets for your cloning efforts.
   - Purchase Link: [Amazon](https://www.amazon.com/ETEKJOY-Writable-Proximity-Rewritable-Universal/dp/B07GBSP8SD/ref=sr_1_1?dib=eyJ2IjoiMSJ9.zUDykFIb6r6931hbllXcAU-EGtkSaq7kJc03mga5IIimW_7U0-iAwU889yg9oFzuyTqFFaNNdTV6HBG0AoSGcIyPrNBsiJ1prW_7HngX5dUXx0wZgEQwvUuHJ5c9fVASSs6FP0DMMZY3ZtilpD1brX9Dxd8bNUX3yA9hKTVqptlhH72cMCFLsHYR2rqQX0oy0t7jY8fHqhTO63hVvC8eqaQdzcqY4tJcyB8VI8vKvBo.n0-MfyeY4eShWP6tpLL-8qfb7xQIfpjRHt5Nlw9eg-c&dib_tag=se&keywords=Blank%2BRFID%2Bkey%2Bfobs&qid=1722564307&sr=8-1&th=1)
